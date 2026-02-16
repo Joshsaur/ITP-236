@@ -1,0 +1,14 @@
+C:\Users\joshu\source\repos\Joshua-ITP236\EID\EID\bin\Debug\net10.0\EID.exe
+C:\Users\joshu\source\repos\Joshua-ITP236\EID\EID\bin\Debug\net10.0\EID.deps.json
+C:\Users\joshu\source\repos\Joshua-ITP236\EID\EID\bin\Debug\net10.0\EID.runtimeconfig.json
+C:\Users\joshu\source\repos\Joshua-ITP236\EID\EID\bin\Debug\net10.0\EID.dll
+C:\Users\joshu\source\repos\Joshua-ITP236\EID\EID\bin\Debug\net10.0\EID.pdb
+C:\Users\joshu\source\repos\Joshua-ITP236\EID\EID\obj\Debug\net10.0\EID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\source\repos\Joshua-ITP236\EID\EID\obj\Debug\net10.0\EID.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\Joshua-ITP236\EID\EID\obj\Debug\net10.0\EID.AssemblyInfo.cs
+C:\Users\joshu\source\repos\Joshua-ITP236\EID\EID\obj\Debug\net10.0\EID.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\Joshua-ITP236\EID\EID\obj\Debug\net10.0\EID.dll
+C:\Users\joshu\source\repos\Joshua-ITP236\EID\EID\obj\Debug\net10.0\refint\EID.dll
+C:\Users\joshu\source\repos\Joshua-ITP236\EID\EID\obj\Debug\net10.0\EID.pdb
+C:\Users\joshu\source\repos\Joshua-ITP236\EID\EID\obj\Debug\net10.0\EID.genruntimeconfig.cache
+C:\Users\joshu\source\repos\Joshua-ITP236\EID\EID\obj\Debug\net10.0\ref\EID.dll
