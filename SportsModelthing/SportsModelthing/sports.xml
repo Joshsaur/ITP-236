@@ -1,0 +1,19 @@
+﻿<Sports>
+	<Teams>
+		<Team Id="1" Name="Dragons" />
+		<Team Id="2" Name="Wolves" />
+	</Teams>
+
+	<Players>
+		<Player Id="1" Name="Riven" />
+		<Player Id="2" Name="Meadow" />
+		<Player Id="3" Name="Tender" />
+	</Players>
+
+	<Rosters>
+		<Roster TeamId="1" PlayerId="1" />
+		<Roster TeamId="1" PlayerId="2" />
+		<Roster TeamId="2" PlayerId="2" />
+		<Roster TeamId="2" PlayerId="3" />
+	</Rosters>
+</Sports>
